@@ -4,13 +4,12 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
+# Per Mail
 
-
-###Per Mail
 Bei Fragen oder Anregungen schreib uns eine Mail an
 **vorstand@listen.konglomerat.org**
 
-###Unsere Adresse
+# Unsere Adresse
 
 ![img_fr](/img/rosenwerk.jpg "Das Rosenwerk")
 

@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Werkbereich Lasercutter
 permalink: /laser/
+exclude_from_nav: true
 ---
-
-#Werkbereich: Lasercutter
 
 ![img_fr](/img/laser.jpg "Laser-Cutter in Aktion")
 

@@ -5,7 +5,9 @@ permalink: /news/
 ---
 
 <hr/>
-###3-teiliger Arduino Grundlagenkurs
+
+# 3-teiliger Arduino Grundlagenkurs
+
 <sup>1. Juli 2016</sup>
 
 ![img_fr](/img/arduino.png)
@@ -20,7 +22,9 @@ beinhaltet 3 Termine.
 [Details...](http://fablabdd.de/3-teiliger-arduino-grundlagenkurs/)
 
 <hr/>
-###3D-Druck Stammtisch Dresden
+
+# 3D-Druck Stammtisch Dresden
+
 <sup>24. Oktober 2015</sup>
 
 ![img_fr](/img/3dstammtisch.jpg)
@@ -39,7 +43,9 @@ Uhr 3D-Big im Technologiezentrum Freital.
 [Details...](http://fablabdd.de/3d-druck-stammtisch-dresden/)
 
 <hr/>
-###Laser Aufbaukurs / Führerscheinkurs
+
+# Laser Aufbaukurs / Führerscheinkurs
+
 <sup>11. Februar 2015</sup>
 
 Handsäge und Akkubohrer waren gestern, heute schneiden und gravieren

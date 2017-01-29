@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Platzhalter Projekte
 permalink: /dummy_projekt/
+exclude_from_nav: true
 ---
-
-#Platzhalter Projekte
 
 ![img_fr](/img/katze.jpg)
 

@@ -18,14 +18,14 @@ Vereinsvorsitz:
 Sandro Berneis, Marc Schmidt, Matthias Röder, Betina Weber, Thomas Jentzsch
 
 
-#### Kontakt:
+# Kontakt:
 
 E-Mail: vorstand@listen.konglomerat.org
 
 Vereinstelefon: 0176 35019056
 
 
-#### Haftungsausschluss:
+# Haftungsausschluss:
 
 *Haftung für Inhalte*
 

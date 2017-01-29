@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Projekt Fablab Dresden
 permalink: /fablab/
+exclude_from_nav: true
 ---
-
-#Projekt: Fablab Dresden
 
 ![img_fr](/img/fablab.jpg)
 

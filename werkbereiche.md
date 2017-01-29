@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Die Werkbereiche
-permalink: /vereine/
+permalink: /werkbereiche/
 ---
 
 Hier findest du einen Überblick über die verschiedenen Werkbereiche die es im

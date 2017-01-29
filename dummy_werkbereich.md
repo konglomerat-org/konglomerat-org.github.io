@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Platzhalter Werkbereiche
 permalink: /dummy_werkbereich/
+exclude_from_nav: true
 ---
-
-#Platzhalter Werkbereiche
 
 ![img_fr](/img/katze.jpg)
 
