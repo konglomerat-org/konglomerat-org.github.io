@@ -17,11 +17,13 @@ Steuernummer: 203 I 140 I 18533 K08
 Vereinsvorsitz:
 Sandro Berneis, Marc Schmidt, Matthias Röder, Betina Weber, Thomas Jentzsch
 
+
 #### Kontakt:
 
 E-Mail: vorstand@listen.konglomerat.org
 
 Vereinstelefon: 0176 35019056
+
 
 #### Haftungsausschluss:
 
@@ -39,6 +41,7 @@ den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftun
 ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung
 möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir
 diese Inhalte umgehend entfernen.
+
 
 *Haftung für Links*
 

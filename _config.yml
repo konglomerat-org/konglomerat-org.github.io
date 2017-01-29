@@ -6,14 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: martsblog
-email: martin.stein@genode-labs.com
+title: Konglomerat e.V.
+email: vorstand@listen.konglomerat.org
 description: >
-  A blog about OS development, outdoor activities, vegan lifestyle, the
-  universe, and everything...
+  Das Konglomerat ist ein Verein der Menschen rund um das Thema DIY (Do it
+  yourself) zusammenbringt und ihnen die gemeinsame Nutzung von
+  Räumlichkeiten, Werkzeug, Material und Know-How bei ihren Projekten
+  ermöglicht.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://m-stein.github.io" # the base hostname & protocol for your site
-github_username: m-stein
+url: "http://m-stein.github.io/konglomerat.org" # the base hostname & protocol for your site
+github_username:
 
 # Build settings
 markdown: kramdown
