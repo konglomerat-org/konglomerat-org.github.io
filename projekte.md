@@ -4,8 +4,8 @@ title: Die Projekte
 permalink: /projekte/
 ---
 
-Hier findet ihr einen Überblick über die verschiedenen Projekte, aus denen
-sich das Konglomerat zusammensetzt. Das Konglomerat ist aus ganz verschiedenen,
+Hier findest du einen Überblick über die verschiedenen Projekte, aus denen sich
+das Konglomerat zusammensetzt. Das Konglomerat ist aus ganz verschiedenen,
 vormals eigenständigen Initiativen entstanden die nun Hand in Hand arbeiten.
 
 [Fablab](/fablab/index.html)
